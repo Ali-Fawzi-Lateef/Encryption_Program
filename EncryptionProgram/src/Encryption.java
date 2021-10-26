@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Encryption {   
-  
+   
     private Scanner scanner;
     private ArrayList<Character> list;
     private ArrayList<Character> shuffledList;
