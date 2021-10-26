@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Encryption {
+public class Encryption {  
 
     private Scanner scanner;
     private ArrayList<Character> list;
