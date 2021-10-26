@@ -24,8 +24,8 @@ public class Encryption {
             System.out.println("********************************************");
             System.out.println("What do you want to do ?");
             System.out.println("(N)ewKey,(G)etKey,(E)ncrypt,(D)ecrypt,(Q)uit");
-            char response = Character.toUpperCase(scanner.nextLine().charAt(0)); // take input , turn it to upper case if it's
-                                                                                 // lower case and store the input
+            char response = Character.toUpperCase(scanner.nextLine().charAt(0));  
+                                                                                  
             switch (response){
                 case'N':
                     newKey();
