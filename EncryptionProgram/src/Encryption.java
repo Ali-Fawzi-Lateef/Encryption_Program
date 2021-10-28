@@ -1,5 +1,5 @@
 import java.util.*;
-  
+   
 public class Encryption {   
    
     private Scanner scanner;
